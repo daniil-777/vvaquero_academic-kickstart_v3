@@ -1,0 +1,114 @@
++++
+title = "Joint Coarse-and-Fine Reasoning for Deep Optical Flow"
+date = 2017-09-15T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Victor Vaquero", "German Ros", "Francesc Moreno-Noguer", "Antonio M. Lopez", "Alberto Sanfeliu"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["1"]
+
+# Publication name and optional abbreviated version.
+publication = "In *International Conference on Image Processing (ICIP)*, IEEE."
+publication_short = "In *ICIP*"
+
+# Abstract and optional shortened version.
+abstract = "We propose a novel representation for dense pixel-wise estimation tasks using CNNs that boosts accuracy and reduces training time, by explicitly exploiting joint coarse-and-fine reasoning. The coarse reasoning is performed over a discrete classification space to obtain a general rough solution, while the fine details of the solution are obtained over a continuous regression space. In our approach both components are jointly estimated, which proved to be beneficial for improving estimation accuracy. Additionally, we propose a new  network architecture, which combines coarse and fine components by treating the fine estimation as a refinement built on top of the coarse solution, and therefore adding details to the general prediction. We apply our approach to the challenging problem of optical flow estimation and empirically validate it against state-of-the-art CNN-based solutions trained from scratch and tested on large optical flow datasets."
+abstract_short = "We propose a novel representation for dense pixel-wise estimation tasks using CNNs that boosts accuracy and reduces training time, by explicitly exploiting joint coarse-and-fine reasoning. The coarse reasoning is performed over a discrete classification space to obtain a general rough solution, while the fine details of the solution are obtained over a continuous regression space. Additionally, we propose a new network architecture, which jointly estimates and combines coarse and fine components by treating the fine estimation as a refinement built on top of the coarse solution adding details to the general prediction. We apply our approach to the challenging problem of optical flow estimation and validate it against state-of-the-art CNN-based solutions trained from scratch on large optical flow datasets."
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = "http://www.iri.upc.edu/files/scidoc/1902-Joint-coarse-and-fine-reasoning-for-deep-optical-flow.pdf"
+url_preprint = "http://arxiv.org/abs/1808.07416"
+url_code = ""
+url_dataset = ""
+url_project = "/publication/vvaquero2017icip/"
+url_slides = ""
+url_video = ""
+url_poster = "https://drive.google.com/open?id=1O8YUfLNNIgka-j_Zv393X5y7EEZ5zqGU"
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "IEEE", url = "https://ieeexplore.ieee.org/document/8296744/"},
+              {name = "IRI", url = "http://www.iri.upc.edu/publications/show/1902"}]
+
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
++++
+
+
+
+
+
+![icip_thumbnail](/publication/vvaquero2017icip/ICIP_17_CaF.jpg "ICIP_17_Thumbnail")
+
+
+## **Paper Summary**
+
+![icip_main](/publication/vvaquero2017icip/icip17_main.jpg "ICIP_17_main_fig")
+   
+We approach dense per-pixel regression problems with a joint coarse-and-fine method and apply it to the challenging problem of optical flow prediction. 
+Our method explicitly combines a coarse result based on the solution of pixel-wise horizontal and vertical classification problems with a fine one obtained through regression predictions.
+
+
+### **Network Used**
+
+![icip_net](/publication/vvaquero2017icip/icip_net.png "ICIP_17_net")
+  
+Our regularised FlowNet architecture is formed of a contractive and an expansive part. First, a set of Convolutions, Batch
+Normalization and Relu layers (CONV, BN and RELU) are interleaved to obtain abstract and hierarchical representations while
+contracting the input information. The final dense predictions is generated by deconvolution layers (CONV T ), and guided to an
+optimal solution by concatenating (CAT blocks) corresponding initial feature maps and the partial coarse and fine upsampled
+(Up) solutions obtained at five resolution points.
+
+
+### **Coarse And Fine Module**
+
+![icip_CaF_Module](/publication/vvaquero2017icip/icip_17_CaF_Module.png "ICIP_17_CaF_Module")
+Each coarse-and-fine module solves one regression and two classification per-pixel problems. Softmax outputs from these last are declassified obtaining the coarse solution.
+
+
+### **Results**
+![icip_results](/publication/vvaquero2017icip/icip_17_results.png "ICIP_17_results")
+Evaluation of the end-point-error for the presented models. Suffixes Kc indicate the number of classes used during training on Flying Chairs. 
+Results over the Sintel Training and Test sets are presented, showing the generalization of our method on unseen datasets.
+
+  
+___
+      
+**Acknowledgements:** 
+This work was partially supported by European AEROARMS project (H2020-ICT-2014-1-644271) and CICYT projects ColRobTransp (DPI2016-78957-R), ROBINSTRUCT (TIN2014-58178-R). 
+Authors thank Nvidia for GPU hardware donation.
