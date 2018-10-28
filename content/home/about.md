@@ -9,32 +9,45 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+interests = [
+    "Autonomous Driving",
+    "Deep Learning",
+    "Robot Perception",
+    "Computer Vision"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Control, Robotics and Vision"
+  institution = "Barcelona Tech - IRI (CSIC-UPC)"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Automatic Control and Robotics"
+  institution = "Barcelona Tech (UPC)"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Telecommunications Engineering"
+  institution = "Autonomous University of Madrid (UAM)"
+  year = 2010
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi!
+I am a close-to-finish Ph.D student in Robotics and Computer Vision at IRI, BarcelonaTech.
+My research focuses on scene understanding for Autonomous Driving situations, mainly using Deep Learning methods with LIDAR data.
+I have participated in several national and european projects. 
+Recently, I have completed a research internship in Valeo Driving Assistance Research (Germany), 
+obtaining a wider insight about real Autonomous Vehicles, sensors and methodologies. 
+
+
+I complement my background with a great passion about technology and entrepreneurship. 
+This, in combination with my social skills and creativity makes me feel very comfortable creating 
+new methods and innovative solutions as well leading working groups and projects.
+
+Feel free to check my [Full CV!](https://drive.google.com/open?id=1GYzWzctInXHtS9fhNWVSZHr3EG_16HAx) (Up to 08.2018)
+
