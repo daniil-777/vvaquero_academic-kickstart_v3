@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
 [interests]
@@ -39,7 +39,7 @@ interests = [
 
 Hi!
 I am a close-to-finish Ph.D student in Robotics and Computer Vision at IRI, BarcelonaTech.
-My research focuses on scene understanding for Autonomous Driving situations, mainly using Deep Learning methods with LIDAR data.
+My research focuses on scene understanding for Autonomous Driving situations, mainly using Deep Learning methods with LiDAR data.
 I have participated in several national and european projects. 
 Recently, I have completed a research internship in Valeo Driving Assistance Research (Germany), 
 obtaining a wider insight about real Autonomous Vehicles, sensors and methodologies. 

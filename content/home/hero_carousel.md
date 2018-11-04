@@ -1,15 +1,15 @@
 +++
 # Hero Carousel widget.
 widget = "hero_carousel"
-active = true
+active = false
 date = 2017-10-15T00:00:00
 
 # Order that this section will appear in.
-weight = 1
+weight = 3
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 2000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
@@ -17,6 +17,17 @@ height = "300px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+[[item]]
+  title = "ICPR 2018"
+  content = "Hallucinating Dense Optical Flow from Sparse Lidar for Autonomous Vehicles"
+  align = "left"
+
+  overlay_color = "#125"  # An HTML color value.
+  overlay_img = "pubs/icpr_18_res1_3.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
+
+
 [[item]]
   title = "Hello"
   content = "I am center aligned :smile:"
@@ -41,7 +52,7 @@ height = "300px"
   content = "I am left aligned :smile:"
   align = "left"
 
-  overlay_color = "#555"  # An HTML color value.
+  overlay_color = "#125"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
