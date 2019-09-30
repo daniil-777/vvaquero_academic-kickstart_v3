@@ -63,7 +63,7 @@ enableGitInfo = true
 
   # Details for the Contact Widget
   email = "vvaquero@iri.upc.edu"
-  address = "Insitut de Robotica i Informatica Industrial, \n C/Llorens i Artigas 4-6, 08028, Barcelona, SPAIN"
+  address = "Insitut de Robotica i Informatica Industrial, \n C/Llorens i Artigas 4-6, 08028, Barcelona, SPAIN."
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "(+34) 93 4015791"
   skype = ""
