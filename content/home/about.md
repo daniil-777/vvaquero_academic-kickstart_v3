@@ -13,7 +13,8 @@ interests = [
     "Autonomous Driving",
     "Deep Learning",
     "Robot Perception",
-    "Computer Vision"
+    "Computer Vision",
+    "Human Machine Interaction"
   ]
 
 # List your qualifications (such as academic degrees).
