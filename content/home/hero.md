@@ -50,4 +50,4 @@ I complement my background with a great passion about technology and entrepreneu
 This, in combination with my social skills and creativity makes me feel very comfortable creating 
 new methods and innovative solutions as well leading working groups and projects.
 
-Feel free to check my [Full CV!](https://drive.google.com/open?id=1GYzWzctInXHtS9fhNWVSZHr3EG_16HAx) (Up to 08.2018)
+Feel free to check my [Full CV!](https://drive.google.com/open?id=1KAspta5QdBoLxRcC7oP6ClCBjNJUXMgB) (Up to 10.2019)
