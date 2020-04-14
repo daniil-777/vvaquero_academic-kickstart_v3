@@ -16,6 +16,7 @@ interests = [
     "Entrepreneurship",
     "Computer Vision",
     "Autonomous Driving"
+    ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
