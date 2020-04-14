@@ -67,7 +67,6 @@ innovative person eager to bridge between cross-functional teams helping them to
 
 
 
-<<<<<<< HEAD
 <!---
 Hi you!! 
 I am a close-to-finish Ph.D student in Robotics and Computer Vision at IRI, BarcelonaTech.  
@@ -80,7 +79,7 @@ Recently, I have completed a research internship in Valeo Driving Assistance Res
 <!---
 I complement my background with a great passion about technology and entrepreneurship. 
 This, in combination with my social skills and creativity makes me feel very comfortable creating 
-=======
+
 Hi!
 I am about to defend my Ph.D in Robotics and Computer Vision from [IRI](www.iri.upc.edu), BarcelonaTech and looking for further chellenging industry oportunities. At the moment I am doing an internship in the Machine Learning team inside Toyota Research Institute ([TRI](www.tri.global)) and during my PhD I also completed another stay in [Valeo](www.valeo.com), inside the Driving Assistance Research unit (Germany), 
 
@@ -92,9 +91,5 @@ This, in combination with my soft skills and creativity makes me feel very comfo
 new methods and innovative solutions as well leading working groups and projects.
 -->
 
-<<<<<<< HEAD
 Feel free to check my [Full CV!](https://www.dropbox.com/s/gq5p0iymtjtqjip/CV_2020_04_VictorVaquero.pdf?dl=0) (Up to 04.2020)
-=======
-Feel free to check my [Full CV!](https://drive.google.com/open?id=1KAspta5QdBoLxRcC7oP6ClCBjNJUXMgB) (Up to 10.2019)
->>>>>>> d5916b37e8bae100c4906bfa6ac531fdf8ddecfa
 
