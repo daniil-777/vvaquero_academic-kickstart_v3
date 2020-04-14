@@ -1,3 +1,31 @@
+# Modified Academic Kickstart framework. 
+
+Stacked at hugo v0.49.2 - Ubuntu 18.04 ok 
+Hugo Static Site Generator v0.49.2 linux/amd64 BuildDate: 2018-10-11T09:48:27Z
+
+Automatic building with Netlify. 
+
+Own instructions for further local updated: 
+
+1. Clone repo
+
+2. Initialize the theme:
+    (have corresponding Hugo Version installed! )
+    
+    cd My_Website
+    git submodule update --init --recursive
+    
+3. View your new website:
+      
+       hugo server
+
+    Now you can go to [localhost:1313](http://localhost:1313) and your new Academic powered website should appear.
+    
+    
+* Real readme from George Cushen](https://georgecushen.com) should be available in this readme as a comment! 
+
+
+<!---
 # Academic Kickstart
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
@@ -50,3 +78,4 @@ Copyright 2017 [George Cushen](https://georgecushen.com).
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+-->
