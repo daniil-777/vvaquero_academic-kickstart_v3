@@ -9,7 +9,7 @@ weight = 3
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 2000
+interval = 5000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
@@ -24,7 +24,7 @@ height = "300px"
   align = "left"
 
   overlay_color = "#125"  # An HTML color value.
-  overlay_img = "pubs/icpr_18_res1_3.png"  # Image path relative to your `static/img/` folder.
+  #overlay_img = "pubs/icpr_18_res1_3.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 

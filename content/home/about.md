@@ -6,6 +6,7 @@ date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
 weight = 1
+ 
 
 # List your academic interests.
 [interests]
@@ -17,6 +18,7 @@ interests = [
     "Computer Vision",
     "Autonomous Driving"
     ]
+
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -91,5 +93,6 @@ This, in combination with my soft skills and creativity makes me feel very comfo
 new methods and innovative solutions as well leading working groups and projects.
 -->
 
-Feel free to check my [Full CV!](https://www.dropbox.com/s/gq5p0iymtjtqjip/CV_2020_04_VictorVaquero.pdf?dl=0) (Up to 04.2020)
+Feel free to check my [Full CV!](https://drive.google.com/file/d/14qFJwZi3Nul-uaHcrDasex4xL2y1wklM/view?usp=sharing) (Up to 04.2020)
 
+ 
