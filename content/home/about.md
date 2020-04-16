@@ -29,7 +29,7 @@ interests3 = [
     "Python",
     "Matlab",
     "C++",
-    "Github"
+    "Git"
     ]
 
 
