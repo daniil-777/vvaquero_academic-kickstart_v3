@@ -11,12 +11,25 @@ weight = 1
 # List your academic interests.
 [interests]
 interests = [
+    "Problem Solver",
+    "Inventor",
+    "Creative",
+    "Team Leader", 
+    "Resilience"
+    ]
+interests2 = [
     "Deep Learning",
-    "Robot Perception",
+    "Robotics",
     "Human Machine Interaction",
-    "Entrepreneurship",
     "Computer Vision",
-    "Autonomous Driving"
+    ]
+    
+interests3 = [
+    "Negotiation",
+    "Python",
+    "Matlab",
+    "C++",
+    "Github"
     ]
 
 
@@ -36,23 +49,6 @@ interests = [
   institution = "Autonomous University of Madrid (UAM)"
   year = 2010
   
-  
-  
- # List your qualifications (such as academic degrees).
-[[news.mynews]]
-  new = "A Test 1, Robotics and Vision"
-  aa = "aa Barcelona Tech - IRI (CSIC-UPC)"
-  year = 2019
-
-[[news.mynews]]
-  new = "Test 2, in Control, Robotics and Vision"
-  aa = "aa Barcelona Tech (UPC)"
-  year = 2014
-
-[[news.mynews]]
-  new = "Test 3, in Telecommunication Eng."
-  aa = "aa Autonomous University of Madrid (UAM)"
-  year = 2010
  
 +++
 <!---
@@ -70,11 +66,6 @@ innovative person eager to bridge between cross-functional teams helping them to
 
 
 <!---
-Hi you!! 
-I am a close-to-finish Ph.D student in Robotics and Computer Vision at IRI, BarcelonaTech.  
-My research focuses on scene understanding for Autonomous Driving situations, mainly using Deep Learning methods with LiDAR data.
-I have participated in several national and european projects.
-
 Recently, I have completed a research internship in Valeo Driving Assistance Research (Germany), obtaining a wider insight about real Autonomous Vehicles, sensors and methodologies.
 -->
 
@@ -82,17 +73,11 @@ Recently, I have completed a research internship in Valeo Driving Assistance Res
 I complement my background with a great passion about technology and entrepreneurship. 
 This, in combination with my social skills and creativity makes me feel very comfortable creating 
 
-Hi!
-I am about to defend my Ph.D in Robotics and Computer Vision from [IRI](www.iri.upc.edu), BarcelonaTech and looking for further chellenging industry oportunities. At the moment I am doing an internship in the Machine Learning team inside Toyota Research Institute ([TRI](www.tri.global)) and during my PhD I also completed another stay in [Valeo](www.valeo.com), inside the Driving Assistance Research unit (Germany), 
-
-My research have focused on the use of Deep Learning techniques to understand Autonomous Driving situations based on 3D pointcloud information from LiDAR sensors. However, I am opening to any other challenging topics such as Human Machine Interaction, or robotics perception. 
-
 I complement my background with a great passion about technology and entrepreneurship, which expand my interests to other fields such as Marketing, Blockchain or Investments. 
 This, in combination with my soft skills and creativity makes me feel very comfortable creating 
->>>>>>> d5916b37e8bae100c4906bfa6ac531fdf8ddecfa
 new methods and innovative solutions as well leading working groups and projects.
 -->
 
 Feel free to check my [Full CV!](https://drive.google.com/file/d/14qFJwZi3Nul-uaHcrDasex4xL2y1wklM/view?usp=sharing) (Up to 04.2020)
 
- 
+

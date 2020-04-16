@@ -21,11 +21,11 @@ date_format = "January 2006"
 
 
 [[experience]]
-  title = "Deep Learning Teaching Assistance Volunteer"
+  title = "Deep Learning Teaching Assistance Volunteer (online)"
   company = "Zero To Deep Learning"
   company_url = "https://www.zerotodeeplearning.com/"
   location = "San Francisco (USA)"
-  date_start = "2019-12-20"
+  date_start = "2020-01-20"
   date_end = "2020-06-14"
   description = """
   I volunteer and help on teaching an intensive bootcamp about machine learning 
