@@ -78,6 +78,9 @@ This, in combination with my soft skills and creativity makes me feel very comfo
 new methods and innovative solutions as well leading working groups and projects.
 -->
 
+<!---
 Feel free to check my [Full CV!](https://drive.google.com/file/d/14qFJwZi3Nul-uaHcrDasex4xL2y1wklM/view?usp=sharing) (Up to 04.2020)
+-->
+Feel free to check my [Full CV!](https://drive.google.com/open?id=1RCWM2QF42wcYCwmLCCxFbiHFTDwfFplo) (Up to 04.2020)
 
 
