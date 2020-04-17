@@ -31,9 +31,9 @@ date_format = "January 2006"
   focusing on Deep Learning technologies applied to solve various Autonomous Driving problems. 
   
   * [3D-DLAD v2](https://sites.google.com/view/3d-dlad-v2-iv2020/home): 3D-Deep Learning for Automated Driving - v2.  
-  Las Vegas (USA), To happend, October 2020 ([IV'20](https://2020.ieee-iv.org/))  
+  Las Vegas (USA), To happen, October 2020 ([IV'20](https://2020.ieee-iv.org/))  
   * [CoFED-DLAD](https://sites.google.com/view/cofed-dlad-2020/home): Collaborative Perception & Federated ML for AD.  
-  Rhodes (Greece), To happend, September 20th 2020 ([ITSC'20](https://www.ieee-itsc2020.org/))
+  Rhodes (Greece), To happen, September 20th 2020 ([ITSC'20](https://www.ieee-itsc2020.org/))
   * [DLAD-BP](https://sites.google.com/view/dlad-bp-itsc2019): Deep Learning for Automated Driving, Beyond Perception   
   Auckland (New Zeland), October 27th 2019 ([ITSC'19](https://www.itsc2019.org/))  
   * [3D-DLAD](https://sites.google.com/view/3d-dlad-iv2019/): 3D-Deep Learning for Automated Driving.  
@@ -73,7 +73,7 @@ date_format = "January 2006"
   title = "Founder & President"
   company = "Association 'Centro y Cultura' UAM"
   company_url = ""
-  location = "Madird (Spain)"
+  location = "Madrid (Spain)"
   date_start = "2010-01-14"
   date_end = "2011-06-10"
   description = """
