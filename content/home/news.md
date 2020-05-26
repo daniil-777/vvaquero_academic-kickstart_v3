@@ -17,6 +17,8 @@ weight = 2
 
 - **<span style="color: red;">February 2020:</span>** I got ***Cum Laude*** on my PhD!        
  &rarr; Check out my thesis defense [**<span style="color: red;">slides here! </span>**](https://docs.google.com/presentation/d/1dvOM9JruDVPOI-RJB07cpwymh-IxnCyJ4UaLGCgn-4M/present#slide=id.p) 
+ &rarr; Full thesis document [**<span style="color: red;">here! </span>**](https://drive.google.com/open?id=1LGCTHHt67pMdUompxo3wdS3gW39_ezdr) 
+
 
 - **January 2020** I will assist teaching some [Zero To Deep Learning](https://www.zerotodeeplearning.com/) bootcamps.   
  I volunteer this to consolidate my Machine Learning and teaching skills. ;)
