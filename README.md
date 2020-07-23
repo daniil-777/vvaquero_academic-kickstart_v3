@@ -1,23 +1,37 @@
 # Modified Academic Kickstart framework. 
 
-Stacked at hugo v0.49.2 - Ubuntu 18.04 ok 
-Hugo Static Site Generator v0.49.2 linux/amd64 BuildDate: 2018-10-11T09:48:27Z
+## Notes on installation 
+Stacked at hugo v0.49.2!! - Tested Ubuntu 18.04, 20.04
 
-Automatic building with Netlify. 
+Install Hugo 0.49.2 and mark to not update: 
 
-Own instructions for further local updated: 
+    wget https://github.com/gohugoio/hugo/releases/download/v0.49.2/hugo_0.49.2_Linux-64bit.deb  
 
-1. Clone repo
+    sudo dpkg -i hugo_0.49.2_Linux-64bit.deb  
+
+    sudo apt-mark hold hugo   
+    
+    hugo version
+    
+  `Hugo Static Site Generator v0.49.2 linux/amd64 BuildDate: 2018-10-11T09:48:27Z`
+
+ 
+
+Own instructions for further local updated.   
+Website builds automatically with Netlify after each git push.  
+
+1. Clone repo (to Dropbox, my_web...): 
+    
+       git clone https://github.com/vvaquero/vvaquero_academic-kickstart_v3.git
 
 2. Initialize the theme:
-    (have corresponding Hugo Version installed! )
     
-    cd My_Website
-    git submodule update --init --recursive
+       cd My_Website
+       git submodule update --init --recursive
     
 3. View your new website:
       
-       hugo server
+       hugo server --disableFastRender
 
     Now you can go to [localhost:1313](http://localhost:1313) and your new Academic powered website should appear.
     
